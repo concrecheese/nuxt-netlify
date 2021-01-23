@@ -12,7 +12,7 @@
         >
           Documentation
         </a>
-        <a href=""> ひええええええ！！！！ </a>
+        <a href=""> huaaaaaaaaaaaaaaaaaaaa!!!!! </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
